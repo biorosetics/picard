@@ -148,7 +148,7 @@ public class AlignmentSummaryMetrics extends MultilevelMetrics {
     public double PCT_READS_IN_PROPER_PAIRS;
 
     /**
-     * The number of instrument cycles in which 80% or more of base calls were no-calls.
+     * The number of instrument cycles in which 80% or more of base calls were no-calls or mismatches.
      */
     public long BAD_CYCLES;
 
